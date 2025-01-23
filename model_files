@@ -1,0 +1,7 @@
+model_files/
+├── Calliope/
+│   ├── results/
+│   ├── timeseriesdata/
+├── Surrogate/
+    ├── input/
+    ├── results/
