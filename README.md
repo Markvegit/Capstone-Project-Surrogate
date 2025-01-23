@@ -6,7 +6,7 @@ steps that have been undertaken to achieve the results presented in this work. T
 clearer understanding of the project’s progression, a detailed explanation of the diagram is 
 provided below.  
 
- 
+ ![Diagram 1](README_afbeelding.png)
 
 Firstly, time series data and system information are being collected. The energy system data 
 and time series are provided by the supervisor and are accessible here. The inputs include 
