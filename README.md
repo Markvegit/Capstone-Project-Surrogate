@@ -59,7 +59,7 @@ The **Surrogate** folder is organized into five subfolders:
 
 **Findings Report**
 
-A detailed explanation of our results can be found in the **`findings`** file within this repository. The report covers:
+A detailed explanation of our results can be found in the **Findings Surrogate Modeling.pdf** file within this repository. The report covers:
 
 * **Data generation and preprocessing**  
    How the Monte Carlo and surrogate model inputs were created.
