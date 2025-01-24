@@ -36,12 +36,7 @@ The **Calliope** folder is divided into two subfolders:
 - **`results/`**  
   This folder contains the outcomes of the Calliope model, such as cost and curtailment, derived using the timeseries data as input.
 
-For more details on how the Calliope input and output were produced, refer to the **[Calliope GitHub repository](https://github.com/FLomb/Calliope-NL/tree/main)**. It includes:
-- A comprehensive `README.md` file
-- A detailed model walkthrough
-- All resources required to reproduce the input and output
-
----
+For more details on how the Calliope input and output were produced, refer to the **[Calliope GitHub repository](https://github.com/FLomb/Calliope-NL/tree/main)**. It includes a comprehensive `README.md` file, a detailed model walkthrough, and all resources required to reproduce our input and output
 
 The **Surrogate** folder is organized into five subfolders:
 
@@ -61,9 +56,8 @@ The **Surrogate** folder is organized into five subfolders:
    Stores outputs from the models, including various plots and models.  
    - One key plot demonstrates the relationship between **wind** and **monthly costs**.
 
----
 
-## Findings Report
+**Findings Report++
 
 A detailed explanation of our results can be found in the **`findings`** file within this repository. The report covers:
 
