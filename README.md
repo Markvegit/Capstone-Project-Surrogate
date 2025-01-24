@@ -7,7 +7,7 @@ This project focuses on developing an AI-driven surrogate model to replicate Cal
 
 **General work-around**
 
-This diagram shows how the neural network-based surrogate model is created and tested for energy system analysis. Diagram 1 illustrates the setup of the project and outlines the steps that have been undertaken to achieve the results presented in this work. To provide a clearer understanding of the project’s progression, a detailed explanation of the diagram is provided below. 
+This diagram shows how the neural network-based surrogate model is created and tested for energy system analysis. Diagram 1 illustrates the setup of the project and outlines the steps that have been undertaken to achieve the results presented in this work. To provide a clearer understanding of the project’s progression, a detailed explanation of the diagram is provided below.
 
 ![Work-around_diagram](https://github.com/user-attachments/assets/ebcdb7c9-fd8d-4532-b9c8-8a8c1988f4da)
 
