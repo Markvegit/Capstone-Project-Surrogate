@@ -4,6 +4,7 @@ Addressing climate change and the need for sustainable energy solutions highligh
 
 This project focuses on developing an AI-driven surrogate model to replicate Calliope’s outputs, including costs and curtailment, while reducing computational complexity. By training on data produced from Calliope simulations, the surrogate model will estimate the relationships between the key inputs and corresponding outputs. Surrogate models make energy system optimization more efficient, enabling faster and larger-scale analyses. This efficiency is especially important in the context of extreme weather events and ambitious decarbonization goals, as these challenges require quick and dependable decision-making (Balduin et al., 2019). 
 
+
 **General work-around**
 
 This diagram shows how the neural network-based surrogate model is created and tested for energy system analysis. Diagram 1 illustrates the setup of the project and outlines the steps that have been undertaken to achieve the results presented in this work. To provide a clearer understanding of the project’s progression, a detailed explanation of the diagram is provided below. 
@@ -14,12 +15,12 @@ Firstly, time series data and system information are being collected. The energy
 
 The network itself is made up of an input layer, some hidden layers, and an output layer. During training, the weights in the network are adjusted step by step so the model can learn how the system works. After training, the model is tested with a different dataset to see how well it performs. This helps the model make quick predictions for new inputs. Using this method, it’s much faster to try out different setups and scenarios compared to running a full simulation every time. 
 
+
 **Requirements**
 
 The final products are reached by using Calliope and Kaggle. Calliope is a free and open-source tool that is specifically designed for energy system modeling. Calliope is widely utilized in both research and commercial projects. The framework version which is used in this project is 0.6.10. Before attempting to run this model, it is important to ensure that Calliope is installed. Kaggle is a platform where people can work together by sharing code and other analysis. This is being used in the later part of the project. All the Monte Carlo samplings and other models were made with the help of this platform.
 
  
-
 **Overview**
 
 The project includes a Jupyter notebook called “model\_walkthrough”, which guides new users through the model. It provides examples of how to use the model for tasks like system design or operational analysis and demonstrates how to customize scenarios. This way you can go through all the steps that have been made during this project. It is also possible to get different models as output.
@@ -57,7 +58,6 @@ Sara Sorici
  E-mail: g.a.arends@student.tudelft.nl
 
  
-
 **Citing**
 
 Balduin, S., Oest, F., Blank-Babazadeh, M., Nßie, A. & Lehnhoff, S. (2019). Toos-assisted surrogate selection for simulation models in energy systems. Proceedings of the Federated Conference on Computer Science and Information Systems, 185-192. From: [https://doi.org/10.15439/2019F242](https://doi.org/10.15439/2019F242)
@@ -70,6 +70,7 @@ Stefan Pfenninger and Bryn Pickering (2018). Calliope: a multi-scale energy syst
 
 Disclaimer:  
 In this project the AI ChatGPT is being used to assist with coding and to check grammar on some parts of the report.
+
 
 **License**
 
