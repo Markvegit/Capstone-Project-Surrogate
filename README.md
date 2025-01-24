@@ -12,9 +12,10 @@ This diagram shows how the neural network-based surrogate model is created and t
 
 Firstly, time series data and system information are being collected. The energy system data and time series are provided by the supervisor Mr. Lombardi and can be found in the citing down below. The inputs include onshore wind, offshore wind, photovoltaics, and electricity demand. These inputs are used to create various scenarios using Calliope, which will be presented in dataset format. In the next step, Monte Carlo sampling is applied to generate a diverse set of input combinations. This technique is utilized, for instance, with variables such as wind, gas prices, and time. The new scenarios include various combinations, such as wind and time. These newly created scenarios from Monte Carlo sampling are different from the original scenarios and will be used later in the project to develop a surrogate model.
 
-With these datasets models are trained and evaluated. Neural networks with several configurations (amount of layers and units per layer) and also several machine learning models. For each combination of inputs and outputs an optimal model is chosen based on test performance.
+With these datasets, models are trained and evaluated: neural networks with several configurations (amount of layers and units per layer) and also several machine learning models. For each combination of inputs and outputs, an optimal model is chosen based on test performance.
 
 Building a surrogate model involves creating various types, such as traditional machine learning models and neural networks, to efficiently make predictions. Each model’s performance is evaluated using metrics like Mean Absolute Error (MAE). The model with the best accuracy and generalization is selected as the optimal choice.
+
 
 **Requirements**
 
