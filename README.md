@@ -40,34 +40,34 @@ For more details on how the Calliope input and output were produced, refer to th
 
 The **Surrogate** folder is organized into five subfolders:
 
-1. **`Data Preprocessing/`**  
+* **`Data Preprocessing/`**  
    Contains scripts for preparing data for modeling.
 
-2. **`ML Models/`**  
+* **`ML Models/`**  
    Includes scripts for training various machine learning models.
 
-3. **`Neural Network/`**  
+* **`Neural Network/`**  
    Focuses on the implementation of neural network models.
 
-4. **`input/`**  
+* **`input/`**  
    Contains all data used to create the surrogate models.
 
-5. **`results/`**  
+* **`results/`**  
    Stores outputs from the models, including various plots and models.  
    - One key plot demonstrates the relationship between **wind** and **monthly costs**.
 
 
-**Findings Report++
+**Findings Report**
 
 A detailed explanation of our results can be found in the **`findings`** file within this repository. The report covers:
 
-1. **Data generation and preprocessing**  
+* **Data generation and preprocessing**  
    How the Monte Carlo and surrogate model inputs were created.
 
-2. **Training and evaluation of surrogate models**  
+* **Training and evaluation of surrogate models**  
    Insights into the machine learning and neural network models.
 
-3. **Visualization of results**  
+* **Visualization of results**  
    Key plots and analyses, with examples like wind and monthly cost relationships.
 
 Each section includes links to the corresponding code files for easier navigation and reproducibility.
