@@ -31,7 +31,7 @@ All the input data and model specifications are organized in the in “model\_fi
 
 The "Calliope" folder is organized into two subfolders: "timeseries" and "results". In the “timeseries” folder is also a subfolder “montecarlo” present which shows all of the Monte Carlo sampled data. This folder contains the generated Monte Carlo data which will be used later on as input again to create more results. Therefore the “timeseries” folder also has a subfolder in which the results are shown, “results”. In this folder there are 72 different variations of Monte Carlo sampled data on cost and on curtailment. The "Surrogate" folder is split into five subfolders, "Data Preprocessing", "ML Models", “Neural Network”, “input” and “results”. Where the “input” subfolder consists of all the data that is used to create the surrogate models. However, “Data Preprocessing”, “ML Models” and “Neural Network” contain the code that is used to find the results that are shown in the subfolder “results”. This folder contains a variety of models, including one that predicts wind in relation to monthly costs. All the suggerate model results were generated using Kaggle. Additionally, the GitHub repository includes a more detailed explanation of the results in a file named “findings”. 
 
-## Additional Reference
+**Additional Reference**
 For more information about Calliope—what it is, how it works, and a detailed walkthrough of how we created the input data—please refer to the [**Calliope-NL GitHub repository**](https://github.com/FLomb/Calliope-NL/tree/main). The repository includes thorough documentation and examples that complement the material presented here.
 
 **Limitations**
