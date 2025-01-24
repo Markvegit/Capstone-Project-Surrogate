@@ -8,7 +8,7 @@ This project focuses on developing an AI-driven surrogate model to replicate Cal
 
 This diagram shows how the neural network-based surrogate model is created and tested for energy system analysis. Diagram 1 illustrates the setup of the project and outlines the steps that have been undertaken to achieve the results presented in this work. To provide a clearer understanding of the project’s progression, a detailed explanation of the diagram is provided below. 
 
- ![][image1]
+![Work-around_diagram](https://github.com/user-attachments/assets/ebcdb7c9-fd8d-4532-b9c8-8a8c1988f4da)
 
 Firstly, time series data and system information are being collected. The energy system data and time series are provided by the supervisor Mr. Lombardi and can be found in the citing down below. The inputs include onshore wind, offshore wind, photovoltaics, and electricity demand. These inputs are used to create various scenarios using Calliope, which will be presented in dataset format. In the next step, Monte Carlo sampling is applied to generate a diverse set of input combinations. This technique is utilized, for instance, with variables such as wind, gas prices, and time. The new scenarios include various combinations, such as wind and time. These newly created scenarios from Monte Carlo sampling are different from the original scenarios and will be used later in the project to develop a surrogate model.
 
