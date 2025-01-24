@@ -60,7 +60,7 @@ Sara Sorici
  
 **Citing**
 
-Balduin, S., Oest, F., Blank-Babazadeh, M., Nßie, A. & Lehnhoff, S. (2019). Toos-assisted surrogate selection for simulation models in energy systems. Proceedings of the Federated Conference on Computer Science and Information Systems, 185-192. From: [https://doi.org/10.15439/2019F242](https://doi.org/10.15439/2019F242)
+Balduin, S., Oest, F., Blank-Babazadeh, M., Nieße, A. & Lehnhoff, S. (2019). Toos-assisted surrogate selection for simulation models in energy systems. Proceedings of the Federated Conference on Computer Science and Information Systems, 185-192. From: [https://doi.org/10.15439/2019F242](https://doi.org/10.15439/2019F242)
 
 Lombardi, F. (2024). *Calliope-Nl*. From: [https://github.com/FLomb/Calliope-NL/tree/main](https://github.com/FLomb/Calliope-NL/tree/main)
 
