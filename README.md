@@ -46,7 +46,7 @@ The **Surrogate** folder is organized into five subfolders:
 * **ML Models**  
    Includes scripts for training various machine learning models.
 
-* **`Neural Network**  
+* **Neural Network**  
    Focuses on the implementation of neural network models.
 
 * **input**  
